@@ -37,3 +37,4 @@ print(f"el resto de la division de {var2} /{var3} es igual a ", division_entera)
 modulo_division=var2%var3
 print(f"el resto de la division de {var2} / {var3} es igual a " modulo_division)
 print(f"la potencia de {var2} 
+#este  es el comentario que se me pide en la sumativa
